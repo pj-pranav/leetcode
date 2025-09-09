@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pj-pranav/leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/pj-pranav/leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/pj-pranav/leetcode/tree/master/0058-length-of-last-word) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pj-pranav/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pj-pranav/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
