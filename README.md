@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/pj-pranav/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pj-pranav/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/pj-pranav/leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/pj-pranav/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pj-pranav/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pj-pranav/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/pj-pranav/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
