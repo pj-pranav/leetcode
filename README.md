@@ -21,10 +21,12 @@
 | [0007-reverse-integer](https://github.com/pj-pranav/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pj-pranav/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pj-pranav/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pj-pranav/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pj-pranav/leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pj-pranav/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pj-pranav/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -36,9 +38,11 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/pj-pranav/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/pj-pranav/leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pj-pranav/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pj-pranav/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
