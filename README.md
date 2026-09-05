@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/pj-pranav/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/pj-pranav/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pj-pranav/leetcode/tree/master/0283-move-zeroes) |
+| [3904-smallest-stable-index-ii](https://github.com/pj-pranav/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pj-pranav/leetcode/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/pj-pranav/leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
