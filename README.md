@@ -40,6 +40,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/pj-pranav/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pj-pranav/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/pj-pranav/leetcode/tree/master/0115-distinct-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/pj-pranav/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/pj-pranav/leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
